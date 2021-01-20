@@ -2,4 +2,6 @@
 Тестовое задание
 
 mail - sanek737373@inbox.ru <br>
-pass - root
+pass - root <br>
+db - cscart
+
