@@ -1,5 +1,5 @@
 # cs-cart
 Тестовое задание
 
-mail - sanek737373@inbox.ru
+mail - sanek737373@inbox.ru <br>
 pass - root
